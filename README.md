@@ -1,2 +1,2 @@
-# Collab-1
-Ejercicio de Collab 1
+# Collab
+Ejercicios de Collabs
